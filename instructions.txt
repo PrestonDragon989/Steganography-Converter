@@ -1,0 +1,20 @@
+-- INSTRUCTIONS (Encryption) -- 
+1. Put the file(s) you want to hide text into the "Input" folder
+2. Run the "run.bat" file
+3. When the script is ran, answer "1" for encrypt, then input your text
+4. Claim your files are now in the Output that have your data
+
+-- INSTRUCTIONS (Decryption) -- 
+1. Put the file(s) you want to read text from into the "Input" folder
+2. Run the "run.bat" file
+3. When the script is ran, answer "2" for reading
+4. The script will end, and you can read the text that the file(s) outputted.
+
+-- RUNNING SPECIFIC FILES -- 
+1. Get the image file you want to Read/Wrtie to
+2. Right click and click on "Open With"
+3. Find the "run.bat" script to run with (You have to click the option that says choose another app on your pc)
+4. The script will run on that file. Enjoy!
+
+
+Files you can add text to: [.png, .jpg, jpeg]
