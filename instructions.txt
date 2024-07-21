@@ -16,5 +16,12 @@
 3. Find the "run.bat" script to run with (You have to click the option that says choose another app on your pc)
 4. The script will run on that file. Enjoy!
 
-
-Files you can add text to: [.png, .jpg, jpeg]
+-- OTHER THINGS TO NOTE --
+1. Some pictures, if they are to small, might break everything. Keep that in mind.
+2. You should only edit things in the Input & Output folders, don't touch the other things (Except log.txt, you can edit whats in that if you want)
+3. The log.txt is just marking everything thats happening in the process. If something goes wrong, you can check that for some info about it. Its also just fun to look at :)
+4. The File structure for this when testing was: C:\Steganography\   If something goes wrong, put it in it's own folder like that.
+5. This will only work on windows computers
+6. The .py (Python) file included just showed the code. You can run it through that by changing the filepath in the run.bat from the main.exe to main.py & adding python before it. You also need to import pillow (pip install pillow) to run the file. However, if you don't know what any of that means, or you don't care, you can just delete it no problem. It has no reason to be there other then for "Why not?"
+7. The files you can add text to are: [.png, .jpg, .jpeg] It doesn't alter the image itself, and you can rename it to whatever. You can even write over the previous text if you want to.
+8. Have fun? 
