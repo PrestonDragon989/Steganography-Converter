@@ -13,7 +13,7 @@ from PIL import Image
 
 specific_file = False
 
-script_dir = os.path.dirname(os.path.abspath(__file__))
+script_dir = os.path.dirname(os.path.abspath(sys.argv[0]))
 
 def configure_logging() -> logging.RootLogger:
     with open(f"{script_dir}\\log.txt", "r") as log:
@@ -26,7 +26,7 @@ def configure_logging() -> logging.RootLogger:
     logger = logging.getLogger()
     logger.setLevel(logging.DEBUG)
     
-    logger.info("Started Steganography Converter Program")
+    logger.info(f"Started Steganography Converter Program at {script_dir}")
     
     return logger
     
@@ -64,10 +64,11 @@ class Steganography:
         close = False
         for file in self._files:
             try:
-                self._opened_files[file] = Image.open("Input/" if not output else "Output/" + file, "r")
-                self._logger.info("Opened file {}".format(file))
+                file_path = os.path.abspath("Input/" if not output else "Output/") + "\\" + file
+                self._opened_files[file] = Image.open(file_path, "r")
+                self._logger.info("Opened file {}".format(file_path))
             except Exception as e:
-                self._logger.warning(f"Failed to open file {file}, due to error {e}")
+                self._logger.warning(f"Failed to open file {file_path}, due to error {e}")
         if len(self._opened_files) <= 0:
             close = True
             
@@ -174,6 +175,13 @@ class Steganography:
                 newimg.save(new_image_name)
                 self._logger.info(f"Encryped into {file} | Saved to {new_image_name}")
                 
+            try:
+                path = r"{}\\Output".format(script_dir)
+                os.startfile(path)
+                self._logger.info(f"Opened File Explorer at Output ({path})")
+            except Exception as e:
+                self._logger.error(f"Failed to open Explorer at new specific file {path} because {e}")
+                
         # Decode
         if type == "2":
             specific_file = False
@@ -202,9 +210,6 @@ class Steganography:
                         break
             
         self._logger.info("Task complete. Ending program")
-        if specific_file:
-            path = script_dir + "/Output/"
-            os.startfile(path)
         
         
 if __name__ == "__main__":

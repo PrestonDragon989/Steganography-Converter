@@ -1,0 +1,147 @@
+-- LOG STARTED 2024-07-21 15:03:42.067227 --
+2024-07-21 15:03:42,067 - root - INFO - Started Steganography Converter Program at C:\Passwords (Steg)\Converter
+2024-07-21 15:03:42,082 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-21 15:03:42,082 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2024-07-21 15:03:42,082 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2024-07-21 15:03:42,082 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2024-07-21 15:03:42,082 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2024-07-21 15:03:48,957 - root - INFO - Encryped into C:\Users\prest\Downloads\test.png | Saved to C:\Passwords (Steg)\Converter/Output/test.steg.png
+2024-07-21 15:03:48,957 - root - ERROR - Closed program due to error cannot access local variable 'path' where it is not associated with a value
+
+
+-- LOG STARTED 2024-07-21 15:05:38.529473 --
+2024-07-21 15:05:38,545 - root - INFO - Started Steganography Converter Program at C:\Passwords (Steg)\Converter
+2024-07-21 15:05:38,545 - root - CRITICAL - No valid files found in Input. Closing program
+
+
+-- LOG STARTED 2024-07-21 15:05:41.653965 --
+2024-07-21 15:05:41,653 - root - INFO - Started Steganography Converter Program at C:\Passwords (Steg)\Converter
+2024-07-21 15:05:41,653 - root - CRITICAL - No valid files found in Input. Closing program
+
+
+-- LOG STARTED 2024-07-21 15:05:56.024595 --
+2024-07-21 15:05:56,024 - root - INFO - Started Steganography Converter Program at C:\Passwords (Steg)\Converter
+2024-07-21 15:05:56,040 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-21 15:05:56,040 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2024-07-21 15:05:56,040 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2024-07-21 15:05:56,040 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2024-07-21 15:05:56,040 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2024-07-21 15:06:00,187 - root - INFO - Encryped into C:\Users\prest\Downloads\test.png | Saved to C:\Passwords (Steg)\Converter/Output/test.steg.png
+2024-07-21 15:06:00,187 - root - ERROR - Closed program due to error cannot access local variable 'path' where it is not associated with a value
+
+
+-- LOG STARTED 2024-07-21 15:08:09.244881 --
+2024-07-21 15:08:09,244 - root - INFO - Started Steganography Converter Program at C:\Passwords (Steg)\Converter
+2024-07-21 15:08:09,244 - root - CRITICAL - No valid files found in Input. Closing program
+
+
+-- LOG STARTED 2024-07-21 15:08:11.013067 --
+2024-07-21 15:08:11,013 - root - INFO - Started Steganography Converter Program at C:\Passwords (Steg)\Converter
+2024-07-21 15:08:11,013 - root - CRITICAL - No valid files found in Input. Closing program
+
+
+-- LOG STARTED 2024-07-21 15:08:27.577419 --
+2024-07-21 15:08:27,577 - root - INFO - Started Steganography Converter Program at C:\Passwords (Steg)\Converter
+2024-07-21 15:08:27,593 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-21 15:08:27,593 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2024-07-21 15:08:27,593 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2024-07-21 15:08:27,593 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2024-07-21 15:08:27,593 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2024-07-21 15:08:30,762 - root - INFO - Encryped into C:\Users\prest\Downloads\test.png | Saved to C:\Passwords (Steg)\Converter/Output/test.steg.png
+2024-07-21 15:08:30,762 - root - ERROR - Closed program due to error cannot access local variable 'specific_file' where it is not associated with a value
+
+
+-- LOG STARTED 2024-07-21 15:10:45.031371 --
+2024-07-21 15:10:45,031 - root - INFO - Started Steganography Converter Program at C:\Passwords (Steg)\Converter
+2024-07-21 15:10:45,031 - root - CRITICAL - No valid files found in Input. Closing program
+
+
+-- LOG STARTED 2024-07-21 15:10:58.856106 --
+2024-07-21 15:10:58,856 - root - INFO - Started Steganography Converter Program at C:\Passwords (Steg)\Converter
+2024-07-21 15:10:58,856 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-21 15:10:58,856 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2024-07-21 15:10:58,856 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2024-07-21 15:10:58,856 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2024-07-21 15:10:58,856 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2024-07-21 15:11:01,699 - root - INFO - Encryped into C:\Users\prest\Downloads\test.png | Saved to C:\Passwords (Steg)\Converter/Output/test.steg.png
+2024-07-21 15:11:01,730 - root - ERROR - Failed to open Explorer at new specific file Output because [WinError 2] The system cannot find the file specified: 'Output'
+2024-07-21 15:11:01,730 - root - INFO - Task complete. Ending program
+
+
+-- LOG STARTED 2024-07-21 15:12:42.649555 --
+2024-07-21 15:12:42,649 - root - INFO - Started Steganography Converter Program at C:\Passwords (Steg)\Converter
+2024-07-21 15:12:42,649 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-21 15:12:42,649 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2024-07-21 15:12:42,649 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2024-07-21 15:12:42,649 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2024-07-21 15:12:42,649 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2024-07-21 15:12:49,281 - root - INFO - Encryped into C:\Users\prest\Downloads\test.png | Saved to C:\Passwords (Steg)\Converter/Output/test.steg.png
+2024-07-21 15:12:49,328 - root - INFO - Task complete. Ending program
+
+
+-- LOG STARTED 2024-07-21 15:13:51.654362 --
+2024-07-21 15:13:51,669 - root - INFO - Started Steganography Converter Program at C:\Passwords (Steg)\Converter
+2024-07-21 15:13:51,669 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-21 15:13:51,669 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 65536
+2024-07-21 15:13:55,052 - root - DEBUG - Decrypt Data C:\Passwords (Steg)\Converter\Output\test.steg.png >> fdjsklfjdsklfjdsklfjdskjfdlsjfkdlsjfkldsjf
+2024-07-21 15:13:55,052 - root - INFO - Task complete. Ending program
+
+
+-- LOG STARTED 2024-07-21 15:20:51.026428 --
+2024-07-21 15:20:51,038 - root - INFO - Started Steganography Converter Program at C:\Passwords (Steg)\Converter
+2024-07-21 15:20:51,042 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-21 15:20:51,042 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2024-07-21 15:20:51,042 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2024-07-21 15:20:51,042 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2024-07-21 15:20:51,042 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2024-07-21 15:20:57,265 - root - INFO - Encryped into C:\Users\prest\Downloads\test.png | Saved to C:\Passwords (Steg)\Converter/Output/test.steg.png
+2024-07-21 15:20:57,328 - root - INFO - Opened File Explorer at Output (C:\Passwords (Steg)\Converter\\Output)
+2024-07-21 15:20:57,328 - root - INFO - Task complete. Ending program
+
+
+-- LOG STARTED 2024-07-21 15:21:13.862390 --
+2024-07-21 15:21:13,862 - root - INFO - Started Steganography Converter Program at C:\Passwords (Steg)\Converter
+2024-07-21 15:21:13,877 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-21 15:21:13,877 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 65536
+2024-07-21 15:21:14,752 - root - DEBUG - Decrypt Data C:\Passwords (Steg)\Converter\Output\test.steg.png >> fjdsklajfdklsjfdsklfjdsklfjdslk
+2024-07-21 15:21:14,752 - root - INFO - Task complete. Ending program
+
+
+-- LOG STARTED 2024-07-21 15:23:15.506894 --
+2024-07-21 15:23:15,506 - root - INFO - Started Steganography Converter Program at C:\Passwords (Steg)\Converter
+2024-07-21 15:23:15,506 - root - INFO - Taken in file: test.png
+2024-07-21 15:23:15,522 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-21 15:23:15,522 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 65536
+2024-07-21 15:23:15,522 - root - INFO - Opened file C:\Passwords (Steg)\Converter\Input\test.png
+2024-07-21 15:23:15,522 - root - DEBUG - Files: ['test.png']
+2024-07-21 15:23:15,522 - root - DEBUG - Opened Files: {'test.png': <PIL.PngImagePlugin.PngImageFile image mode=RGBA size=1234x814 at 0x18AE583E3F0>}
+2024-07-21 15:23:26,766 - root - INFO - Encryped into test.png | Saved to C:\Passwords (Steg)\Converter/Output/test.steg.png
+2024-07-21 15:23:26,815 - root - INFO - Opened File Explorer at Output (C:\Passwords (Steg)\Converter\\Output)
+2024-07-21 15:23:26,815 - root - INFO - Task complete. Ending program
+
+
+-- LOG STARTED 2024-07-21 15:23:37.826695 --
+2024-07-21 15:23:37,826 - root - INFO - Started Steganography Converter Program at C:\Passwords (Steg)\Converter
+2024-07-21 15:23:37,826 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-21 15:23:37,826 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 65536
+2024-07-21 15:23:39,225 - root - DEBUG - Decrypt Data C:\Passwords (Steg)\Converter\Output\test.steg.png >> some text
+2024-07-21 15:23:39,225 - root - INFO - Task complete. Ending program
+
+
+-- LOG STARTED 2024-07-21 15:24:06.355840 --
+2024-07-21 15:24:06,355 - root - INFO - Started Steganography Converter Program at C:\Passwords (Steg)\Converter
+2024-07-21 15:24:06,355 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-21 15:24:06,355 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 65536
+2024-07-21 15:24:08,915 - root - DEBUG - Decrypt Data C:\Passwords (Steg)\Converter\Output\test.steg.png >> some text
+2024-07-21 15:24:08,915 - root - INFO - Task complete. Ending program
+
+
+-- LOG STARTED 2024-07-21 15:26:12.636145 --
+2024-07-21 15:26:12,638 - root - INFO - Started Steganography Converter Program at C:\Passwords (Steg)\Converter
+2024-07-21 15:26:12,644 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-21 15:26:12,645 - PIL.PngImagePlugin - DEBUG - STREAM b'tEXt' 41 57
+2024-07-21 15:26:12,645 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 110 9
+2024-07-21 15:26:12,645 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 131 33488
+2024-07-21 15:26:16,101 - root - INFO - Encryped into C:\Users\prest\Downloads\image.png | Saved to C:\Passwords (Steg)\Converter/Output/image.steg.png
+2024-07-21 15:26:16,329 - root - INFO - Opened File Explorer at Output (C:\Passwords (Steg)\Converter\\Output)
+2024-07-21 15:26:16,329 - root - INFO - Task complete. Ending program
