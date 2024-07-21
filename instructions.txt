@@ -18,3 +18,7 @@
 
 
 Files you can add text to: [.png, .jpg, jpeg]
+
+To run this, you need:
+Python Installed
+You need to have pillow installed through pip (pip3 install pillow)
