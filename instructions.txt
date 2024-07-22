@@ -1,3 +1,10 @@
+-- IMPORTANT FOR IT TO WORK --
+You need to edit the temp.conf file for this script to work. You need to give it the absolute path to the log.txt file.
+1. Open up the temp.conf file in a file editor (something like notepad)
+2. Go to line 24 (The line should like this: args=('log.txt', 'a'))
+3. Change the 'log.txt' In that line to the absolute path of that file. Example: 'log.txt' => 'C:\Steganography\log.txt'
+4. After that, save it, & everything should work.
+
 -- INSTRUCTIONS (Encryption) -- 
 1. Put the file(s) you want to hide text into the "Input" folder
 2. Run the "run.bat" file
